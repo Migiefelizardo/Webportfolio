@@ -1,0 +1,38 @@
+*{
+margin:0;
+padding:0;
+box-sizing: border-box:
+}
+
+.navbar-nav .nav-link {
+
+  font-weight: bold;
+  font-size: 20px; 
+}
+
+
+#landing {
+  background-color: #f8f9fa; /* Light gray */
+}
+
+#projects {
+  background-color: darkgray!important;
+  padding: 10px;
+  border-top: 1px solid #ddd;
+  text-align: center;
+}
+
+#contact {
+	background-color: lightskyblue!important;
+}
+
+footer {
+	background-color: #333;
+  color: white;
+  margin:0:;
+  border-top: 0;
+}
+
+html {
+	scroll-behavior: smooth;
+}
